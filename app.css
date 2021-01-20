@@ -1,0 +1,20 @@
+#embed {
+    border-radius: 5px;
+    border: 1px solid black;
+    color: white;
+    background-color: #222222;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+div.header {
+    border-bottom: 1px solid black;
+    padding: 2px;
+}
+div#code {
+    white-space: pre;
+    overflow: scroll;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100%;
+    padding: 10px;
+}
